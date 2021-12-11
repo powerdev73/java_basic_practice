@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4084724-4f76-48f7-83d0-4c0ce5d33e6e" name="Changes" comment="상속을 활용한 멤버쉽 구현 소스">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="f4084724-4f76-48f7-83d0-4c0ce5d33e6e" name="Changes" comment="README.md 내용 수정">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +84,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.CustomerTest">
     <configuration name="CollbaboTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -159,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639251459091</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="README.md 내용 수정">
+      <created>1639251789399</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639251789399</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +185,7 @@
     <MESSAGE value="객체 콜라보레이션 구현" />
     <MESSAGE value="객체 콜라보레이션 구현 수정" />
     <MESSAGE value="상속을 활용한 멤버쉽 구현 소스" />
-    <option name="LAST_COMMIT_MESSAGE" value="상속을 활용한 멤버쉽 구현 소스" />
+    <MESSAGE value="README.md 내용 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md 내용 수정" />
   </component>
 </project>
