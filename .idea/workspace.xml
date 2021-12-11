@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4084724-4f76-48f7-83d0-4c0ce5d33e6e" name="Changes" comment="객체 콜라보레이션 구현">
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/inheritanceex/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/inheritanceex/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/inheritanceex/VIPCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f4084724-4f76-48f7-83d0-4c0ce5d33e6e" name="Changes" comment="상속을 활용한 멤버쉽 구현 소스">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639210215607</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="객체 콜라보레이션 구현 수정">
+      <created>1639251417031</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639251417031</updated>
+    </task>
+    <task id="LOCAL-00003" summary="상속을 활용한 멤버쉽 구현 소스">
+      <created>1639251459091</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639251459091</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +175,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="객체 콜라보레이션 구현" />
-    <option name="LAST_COMMIT_MESSAGE" value="객체 콜라보레이션 구현" />
+    <MESSAGE value="객체 콜라보레이션 구현 수정" />
+    <MESSAGE value="상속을 활용한 멤버쉽 구현 소스" />
+    <option name="LAST_COMMIT_MESSAGE" value="상속을 활용한 멤버쉽 구현 소스" />
   </component>
 </project>
