@@ -8,3 +8,4 @@
 #### 2. package inheritanceex (상속을 활용한 멤버쉽 예제 소스)
 #### 3. package polymorphismex (다형성 활용한 멤버쉽 예제 소스)
 #### 4. package templatemethodex (추상클래스 및 템플릿 메서드를 활용한 자동차 예제 소스)
+#### 5. package domain.userinfo (인터페이스 특성 및 다형성 활용한 예제 소스)
