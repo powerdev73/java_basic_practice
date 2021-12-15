@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4084724-4f76-48f7-83d0-4c0ce5d33e6e" name="Changes" comment="README.md 내용 수정">
+    <list default="true" id="f4084724-4f76-48f7-83d0-4c0ce5d33e6e" name="Changes" comment=".gitignore 파일 추가">
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/polymorphismex/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/polymorphismex/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/polymorphismex/GoldCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/polymorphismex/VIPCustomer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,16 +87,31 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.CustomerTest">
+  <component name="RunManager" selected="Application.CustomerTest (1)">
     <configuration name="CollbaboTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="powerdev.devstudy.collaborationex.CollbaboTest" />
       <module name="java-essential-ex" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="powerdev.devstudy.collaborationex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="powerdev.devstudy.polymorphismex.CustomerTest" />
+      <module name="java-essential-ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="powerdev.devstudy.polymorphismex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,6 +144,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomerTest (1)" />
         <item itemvalue="Application.CustomerTest" />
         <item itemvalue="Application.CollbaboTest" />
       </list>
@@ -167,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639251789399</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".gitignore 파일 추가">
+      <created>1639252254470</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639252254470</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +213,7 @@
     <MESSAGE value="객체 콜라보레이션 구현 수정" />
     <MESSAGE value="상속을 활용한 멤버쉽 구현 소스" />
     <MESSAGE value="README.md 내용 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="README.md 내용 수정" />
+    <MESSAGE value=".gitignore 파일 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore 파일 추가" />
   </component>
 </project>
