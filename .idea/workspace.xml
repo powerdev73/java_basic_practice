@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4084724-4f76-48f7-83d0-4c0ce5d33e6e" name="Changes" comment="인터페이스 상속 예제 소스 추가">
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/testex1/AdvancedLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/testex1/BeginnerLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/testex1/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/testex1/PlayerLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/testex1/PlayerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/testex1/SuperLevel.java" afterDir="false" />
+    <list default="true" id="f4084724-4f76-48f7-83d0-4c0ce5d33e6e" name="Changes" comment="복습 문제 1 소스 추가">
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/testex2/LeastJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/testex2/PriorityAllocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/testex2/RoundRobin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/testex2/Schedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/testex2/ScheduleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,26 +110,13 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PlayerTest">
+  <component name="RunManager" selected="Application.ScheduleTest">
     <configuration name="BookShelfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="powerdev.devstudy.bookshelf.BookShelfTest" />
       <module name="java-essential-ex" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="powerdev.devstudy.bookshelf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="powerdev.devstudy.interfaceex.CalcTest" />
-      <module name="java-essential-ex" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="powerdev.devstudy.interfaceex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,6 +150,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ScheduleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="powerdev.devstudy.testex2.ScheduleTest" />
+      <module name="java-essential-ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="powerdev.devstudy.testex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserInfoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="powerdev.devstudy.domain.userinfo.web.userinfo.UserInfoClient" />
       <module name="java-essential-ex" />
@@ -179,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScheduleTest" />
         <item itemvalue="Application.PlayerTest" />
         <item itemvalue="Application.BookShelfTest" />
         <item itemvalue="Application.CustomerTest" />
         <item itemvalue="Application.UserInfoClient" />
-        <item itemvalue="Application.CalcTest" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639586717697</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="복습 문제 1 소스 추가">
+      <created>1639589482066</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1639589482066</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,6 +313,7 @@
     <MESSAGE value="인터페이스 역할 및 다형성 예제 소스 추가" />
     <MESSAGE value="다중 인터페이스 사용 예제 소스 추가" />
     <MESSAGE value="인터페이스 상속 예제 소스 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="인터페이스 상속 예제 소스 추가" />
+    <MESSAGE value="복습 문제 1 소스 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="복습 문제 1 소스 추가" />
   </component>
 </project>
