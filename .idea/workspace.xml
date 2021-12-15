@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4084724-4f76-48f7-83d0-4c0ce5d33e6e" name="Changes" comment="객체의 다형성 예제 소스 추가">
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/abstractex/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/abstractex/ComputerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/abstractex/Desktop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/abstractex/MyNoteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/abstractex/NoteBook.java" afterDir="false" />
+    <list default="true" id="f4084724-4f76-48f7-83d0-4c0ce5d33e6e" name="Changes" comment="추상클래스 예제 소스 추가">
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/templatemethodex/AICar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/templatemethodex/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/templatemethodex/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/templatemethodex/ManualCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +92,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ComputerTest">
+  <component name="RunManager" selected="Application.CarTest">
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="powerdev.devstudy.templatemethodex.CarTest" />
+      <module name="java-essential-ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="powerdev.devstudy.templatemethodex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CollbaboTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="powerdev.devstudy.collaborationex.CollbaboTest" />
       <module name="java-essential-ex" />
@@ -146,18 +158,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="powerdev.devstudy.Main" />
-      <module name="java-essential-ex" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.ComputerTest" />
         <item itemvalue="Application.CustomerTest (1)" />
         <item itemvalue="Application.CustomerTest" />
@@ -216,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639526697256</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="추상클래스 예제 소스 추가">
+      <created>1639528829923</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1639528829923</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +247,7 @@
     <MESSAGE value="README.md 내용 수정" />
     <MESSAGE value=".gitignore 파일 추가" />
     <MESSAGE value="객체의 다형성 예제 소스 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="객체의 다형성 예제 소스 추가" />
+    <MESSAGE value="추상클래스 예제 소스 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="추상클래스 예제 소스 추가" />
   </component>
 </project>
