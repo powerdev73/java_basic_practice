@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4084724-4f76-48f7-83d0-4c0ce5d33e6e" name="Changes" comment="인터페이스 역할 및 다형성 예제 소스 추가">
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/interfaceex1/Buy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/interfaceex1/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/interfaceex1/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/interfaceex1/Sell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f4084724-4f76-48f7-83d0-4c0ce5d33e6e" name="Changes" comment="다중 인터페이스 사용 예제 소스 추가">
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/bookshelf/BookShelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/bookshelf/BookShelfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/bookshelf/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerdev/devstudy/bookshelf/Shelf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +100,20 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CustomerTest">
+  <component name="RunManager" selected="Application.BookShelfTest">
+    <configuration name="BookShelfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="powerdev.devstudy.bookshelf.BookShelfTest" />
+      <module name="java-essential-ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="powerdev.devstudy.bookshelf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="powerdev.devstudy.interfaceex.CalcTest" />
       <module name="java-essential-ex" />
@@ -121,19 +133,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="powerdev.devstudy.templatemethodex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ComputerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="powerdev.devstudy.abstractex.ComputerTest" />
-      <module name="java-essential-ex" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="powerdev.devstudy.abstractex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookShelfTest" />
         <item itemvalue="Application.CustomerTest" />
         <item itemvalue="Application.UserInfoClient" />
         <item itemvalue="Application.CalcTest" />
         <item itemvalue="Application.CarTest" />
-        <item itemvalue="Application.ComputerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639584404790</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="다중 인터페이스 사용 예제 소스 추가">
+      <created>1639586295976</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1639586295976</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,6 +287,7 @@
     <MESSAGE value="메서드 템플릿 예제 소스 추가" />
     <MESSAGE value="인터페이스 예제 소스 추가" />
     <MESSAGE value="인터페이스 역할 및 다형성 예제 소스 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="인터페이스 역할 및 다형성 예제 소스 추가" />
+    <MESSAGE value="다중 인터페이스 사용 예제 소스 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="다중 인터페이스 사용 예제 소스 추가" />
   </component>
 </project>
